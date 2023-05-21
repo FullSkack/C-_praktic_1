@@ -1,0 +1,15 @@
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\bin\Debug\net6.0\Ex_4.exe
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\bin\Debug\net6.0\Ex_4.deps.json
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\bin\Debug\net6.0\Ex_4.runtimeconfig.json
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\bin\Debug\net6.0\Ex_4.dll
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\bin\Debug\net6.0\Ex_4.pdb
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\obj\Debug\net6.0\Ex_4.csproj.AssemblyReference.cache
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\obj\Debug\net6.0\Ex_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\obj\Debug\net6.0\Ex_4.AssemblyInfoInputs.cache
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\obj\Debug\net6.0\Ex_4.AssemblyInfo.cs
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\obj\Debug\net6.0\Ex_4.csproj.CoreCompileInputs.cache
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\obj\Debug\net6.0\Ex_4.dll
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\obj\Debug\net6.0\refint\Ex_4.dll
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\obj\Debug\net6.0\Ex_4.pdb
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\obj\Debug\net6.0\Ex_4.genruntimeconfig.cache
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_1\Ex_4\obj\Debug\net6.0\ref\Ex_4.dll
