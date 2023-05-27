@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 Console.Write("Введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 int remainder = num % 2;
