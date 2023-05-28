@@ -12,4 +12,4 @@ int x2 = Convert.ToInt32(Console.ReadLine());
 if (x2%x1 == 0)
     Console.WriteLine($"{x2} кратно {x1}");
 else
-    Console.WriteLine(x2%x1);
+    Console.WriteLine($"Остаток - {x2%x1}");
