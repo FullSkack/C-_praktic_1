@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.Write("введите число от 1 до 7, что бы узнать день недели: ");
-int number = int.Parse(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine());
 if (number == 1)
 {
     Console.WriteLine("Понедельник");
