@@ -15,8 +15,18 @@ void Range(int quart) // процедура соверщающая действ�
 
 Console.Clear();
 System.Console.Write("Введите номер координатной четверти: ");
-int quart = Convert.ToInt32(Console.ReadLine());
 
-Range(quart);
+// обработка исключений
+try
+{
+    int quart = Convert.ToInt32(Console.ReadLine());
+    Range(quart);
+}
+catch
+{
+    System.Console.WriteLine("Некорректное значение, введите число.");;
+}
+
+
 
 
