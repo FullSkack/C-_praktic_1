@@ -10,7 +10,6 @@ void CheckPolindrom(int num)
     Array.Reverse(num_ar);
     num_str = new String(num_ar);
     num_2 = Convert.ToInt32(num_str);
-
     
     if (num>999 && num<100000 && num_1 == num_2)
         System.Console.WriteLine("полиндром");
