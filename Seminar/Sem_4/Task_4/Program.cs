@@ -25,5 +25,6 @@ void PrintArray(int[] massiv) // Объявляем метод и перемен
     }
 }
 
+Console.Clear();
 FillArray(array);
 PrintArray(array);
