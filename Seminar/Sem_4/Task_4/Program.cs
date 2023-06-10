@@ -20,7 +20,7 @@ void PrintArray(int[] massiv) // Объявляем метод и перемен
 
     while (position < count) // цикл перебора и вывода в консоль соответсвующего элемента
     {
-        Console.Write(massiv[position]);
+        Console.Write($"{massiv[position]}; "); // вывод с разделителем
         position ++;
     }
 }
