@@ -1,8 +1,10 @@
 ﻿// Функция принимает число и выдает сколько в нем цифр
 int CountNum(int num)
 {
+    if(num == 0) return 1;
+
     int count = 0;
-    while (num > 0)
+    while (num != 0)
     {
         num/=10;
         count++;
