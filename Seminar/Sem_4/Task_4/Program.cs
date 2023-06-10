@@ -25,6 +25,24 @@ void PrintArray(int[] massiv) // Объявляем метод и перемен
     }
 }
 
+bool OneZero(int[] massiv)
+{
+    int count = 0;
+    for (int i=0; i<massiv.Length; i++)
+    {
+        if (massiv[i] == 0)
+        count++;
+        else
+            continue;
+    }
+
+    bool flag = false;
+    if(count>massiv.Length/2)
+        flag = true;
+    return flag;
+}
+
 Console.Clear();
 FillArray(array);
 PrintArray(array);
+System.Console.WriteLine($"Нулей больше чем единиц - {OneZero(array)}");
