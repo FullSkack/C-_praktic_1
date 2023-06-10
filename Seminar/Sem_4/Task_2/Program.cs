@@ -1,4 +1,14 @@
 ﻿// Функция принимает число и выдает сколько в нем цифр
+int DoubleToInt(decimal num) // необязательная часть с дробными числами
+{
+    while (num%1 != 0)
+    {
+        num*=10;
+    }
+    return Convert.ToInt32(num);
+
+}
+
 int CountNum(int num)
 {
     if(num == 0) return 1;
@@ -14,6 +24,9 @@ int CountNum(int num)
 
 Console.Clear();
 System.Console.Write("Введите число: ");
-int num = Convert.ToInt32(Console.ReadLine());
+decimal num = Convert.ToInt32(Console.ReadLine());
 
-System.Console.WriteLine($"Колличество Цифр - {CountNum(num)}");
+int temp = 0;
+temp = DoubleToInt(num);
+
+System.Console.WriteLine($"Колличество Цифр - {CountNum(temp)}");
