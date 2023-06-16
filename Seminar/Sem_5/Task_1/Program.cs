@@ -31,18 +31,18 @@ void FinSums(int[] array)
     System.Console.WriteLine($"Сумма положительных чисел: {sumP}");
  }
 
-// int FinSums2(int[] array)
-// {
-//     int sumP = 0; // сумма положительных
-//     int sumN = 0; // сумма отрицательных
-//     foreach (var item in array)
-//         if (item>0)
-//             sumP += item;
-//         else
-//             sumN += item;
-//     int[] result = {sumN, sumP};
-//     return result;
-// }
+int FinSums2(int[] array)
+{
+    int sumP = 0; // сумма положительных
+    int sumN = 0; // сумма отрицательных
+    foreach (var item in array)
+        if (item>0)
+            sumP += item;
+        else
+            sumN += item;
+    int[] result = {sumN, sumP};
+    return result;
+}
 
 Console.Clear();
 System.Console.Write("введите размерность: ");
@@ -51,4 +51,4 @@ int[] array = new int[size];
 FillArray(array);
 PrintArray(array);
 FinSums(array);
-// PrintArray(FinSums2(array));
+PrintArray(FinSums2(array));
