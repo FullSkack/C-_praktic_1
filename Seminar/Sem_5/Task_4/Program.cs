@@ -24,7 +24,6 @@ void PrintArray(int[] array)
 int FindAndMemo(int[] array)
 {
     int count = 0;
-    // цикл перебирающий и суммирующий элементы
     for (int i = 0; i < array.Length; i++)
     {
         if (array[i] >9 && array [i] < 100)
