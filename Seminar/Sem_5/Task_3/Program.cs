@@ -39,6 +39,19 @@ void PrintArray(int[] array)
     System.Console.WriteLine();
 }
 
+// Метод определяющий и выводящий индексы вхождения, если они есть
+void FindIndex (int[] array, int num)
+{
+    // цикл перебора элементов
+    for (int i = 0; i < array.Length; i++)
+    {
+        // в цикле есть только ветка вхождения
+        // тк если элемент не вхожит в массив, то индекса у него нет
+        if (array[i] == num)
+        System.Console.Write($"Индексы вхождения: {i};");
+    }
+}
+
 // Задаем входные переменные
 System.Console.Write("Введите диапазаон массива: ");
 int size = Convert.ToInt32(System.Console.ReadLine());
@@ -53,3 +66,4 @@ int[] Array = new int[size];
 FillArray(Array);
 PrintArray(Array);
 FindNumberInArray(Array, num);
+FindIndex(Array, num);
