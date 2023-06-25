@@ -1,0 +1,15 @@
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\obj\Debug\net6.0\HM_8.csproj.AssemblyReference.cache
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\obj\Debug\net6.0\HM_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\obj\Debug\net6.0\HM_8.AssemblyInfoInputs.cache
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\obj\Debug\net6.0\HM_8.AssemblyInfo.cs
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\obj\Debug\net6.0\HM_8.csproj.CoreCompileInputs.cache
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\bin\Debug\net6.0\HM_8.exe
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\bin\Debug\net6.0\HM_8.deps.json
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\bin\Debug\net6.0\HM_8.runtimeconfig.json
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\bin\Debug\net6.0\HM_8.dll
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\bin\Debug\net6.0\HM_8.pdb
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\obj\Debug\net6.0\HM_8.dll
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\obj\Debug\net6.0\refint\HM_8.dll
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\obj\Debug\net6.0\HM_8.pdb
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\obj\Debug\net6.0\HM_8.genruntimeconfig.cache
+C:\Users\drinf\OneDrive\Рабочий стол\C#_praktic_1\Homeworks\HM_8\obj\Debug\net6.0\ref\HM_8.dll
