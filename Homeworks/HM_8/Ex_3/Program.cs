@@ -1,4 +1,7 @@
-﻿Console.Clear();
+﻿﻿// Задача 58: Задайте две матрицы. Напишите программу, 
+// которая будет находить произведение двух матриц.
+
+Console.Clear();
 
 System.Console.WriteLine("Введите количество строк 1-й матрицы");
 int rows_1 = Convert.ToInt32(Console.ReadLine());
