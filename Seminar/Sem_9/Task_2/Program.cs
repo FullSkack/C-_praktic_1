@@ -23,7 +23,7 @@ string GetNumbersRec(int n)
 
 Console.Clear();
 
-System.Console.WriteLine("Введите целое число ");
+System.Console.Write("Введите целое число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine(GetNumbers(n));
 System.Console.WriteLine(GetNumbersRec(n));
