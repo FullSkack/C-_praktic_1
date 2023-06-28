@@ -17,7 +17,7 @@ string GetNumbers(int n)
 // реализация через рекурсию
 string GetNumbersRec(int n)
 {
-    if (n == 0)  return "";
+    if (n == 0) return "";
     return GetNumbersRec(n - 1) + n + ";" ;    
 }
 
