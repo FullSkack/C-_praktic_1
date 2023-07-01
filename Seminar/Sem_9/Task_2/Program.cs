@@ -1,10 +1,9 @@
 ﻿// Программа выводит значения от 1 до N
 
-string GetNumbers(int n)
-// реализация через бесконечный цикл
+string GetNumbers(int num)
 {
     string str = "";
-    while (true)
+     while (true)
     {
         str = Convert.ToString(n) + ";" + str;
         n--;
@@ -14,16 +13,15 @@ string GetNumbers(int n)
     return str;
 }
 
-// реализация через рекурсию
 string GetNumbersRec(int n)
 {
-    if (n == 0) return "";
+    if (n == 0)  return "";
     return GetNumbersRec(n - 1) + n + ";" ;    
 }
 
 Console.Clear();
 
-System.Console.Write("Введите целое число: ");
-int n = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("Введите целое число ");
+int num = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine(GetNumbers(n));
 System.Console.WriteLine(GetNumbersRec(n));
